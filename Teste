@@ -1,0 +1,71 @@
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="" group-title="Canais", Boomerang
+https://cdn.esporteone.com/BOOMERANGSD/video.m3u8?md5=nRL93T2YYaHeAVTBr60ErQ&expires=1643376337
+
+#EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="" group-title="Canais",Espn
+https://m3u9.ml/a2/hls1/espn.m3u8?mu3zAQc9HC3GbwJq=QgD1M0ZGzix0H6zrs0N4QA&3U1G7qaTxrPbalZnEx=1643401945
+
+#EXTINF:-1 tvg-id="Hbo" tvg-name="Hbo" tvg-logo="" group-title="Canais",Hbo
+https://m3u9.ml/a2/hls1/hbo.m3u8?mu3zAQc9HC3GbwJq=Mc3n8DRwEeHAFTfnax0xtA&3U1G7qaTxrPbalZnEx=1643403603
+
+#EXTINF:-1 tvg-id="Hbo Family" tvg-name="Hbo Family" tvg-logo="" group-title="Canais",Hbo Family
+https://m3u9.ml/a2/hls1/hbofamily.m3u8?mu3zAQc9HC3GbwJq=T8lhYyt9sgzZvyyqoDXMWw&3U1G7qaTxrPbalZnEx=1643403794
+
+#EXTINF:-1 tvg-id="Hbo 2" tvg-name="Hbo 2" tvg-logo="" group-title="Canais",Hbo 2
+https://m3u9.ml/a2/hls1/hbo2.m3u8?mu3zAQc9HC3GbwJq=-KPsKKrEHSyNL3HKD-oDSg&3U1G7qaTxrPbalZnEx=1643404024
+
+#EXTINF:-1 tvg-id="Hbo Xtreme" tvg-name="Hbo Xtreme" tvg-logo="" group-title="Canais",Hbo Xtreme
+https://m3u9.ml/a2/hls1/hboxtreme.m3u8?mu3zAQc9HC3GbwJq=JJngzbpB8SOCYQp4Lvx4SA&3U1G7qaTxrPbalZnEx=1643404171
+
+#EXTINF:-1 tvg-id="Hbo Plus" tvg-name="Hbo Plus" tvg-logo="" group-title="Canais",Hbo Plus
+https://m3u9.ml/a2/hls1/hboplus.m3u8?mu3zAQc9HC3GbwJq=2cP8htnXqNL75AcE9hHj7Q&3U1G7qaTxrPbalZnEx=1643404407
+
+#EXTINF:-1 tvg-id="Hbo Signature" tvg-name="Hbo Signature" tvg-logo="" group-title="Canais",Hbo Signature
+https://m3u9.ml/a2/hls1/hbosignature.m3u8?mu3zAQc9HC3GbwJq=YD65qw8KllqvWL6w8mNhSA&3U1G7qaTxrPbalZnEx=1643404530
+
+#EXTINF:-1 tvg-id="Hbo Pop" tvg-name="Hbo Pop" tvg-logo="" group-title="Canais",Hbo Pop
+https://m3u9.ml/a2/hls1/hbopop.m3u8?mu3zAQc9HC3GbwJq=VaGScpQC89EVqW0CU4AIeQ&3U1G7qaTxrPbalZnEx=1643404637
+
+#EXTINF:-1 tvg-id="Hbo Mundi" tvg-name="Hbo Mundi" tvg-logo="" group-title="Canais",Hbo Mundi
+https://m3u9.ml/a2/hls1/hbomundi.m3u8?mu3zAQc9HC3GbwJq=haogC0GlgpmyvHBi-3GJjQ&3U1G7qaTxrPbalZnEx=1643404747
+
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="" group-title="Canais", Megapix
+https://m3u9.ml/a2/hls1/megapix.m3u8?mu3zAQc9HC3GbwJq=U_7BibVN3EvIHenWkfhxFA&3U1G7qaTxrPbalZnEx=1643404920
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="" group-title="Canais",Space
+https://m3u9.ml/a2/hls1/space.m3u8?mu3zAQc9HC3GbwJq=Zx7uErX-dWJfamvqoSzUAg&3U1G7qaTxrPbalZnEx=1643405142
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="Canais",Cinemax
+https://m3u9.ml/a2/hls1/cinemax.m3u8?mu3zAQc9HC3GbwJq=PMMab8XVMca9NHXgwaakfA&3U1G7qaTxrPbalZnEx=1643405364
+
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="" group-title="Canais",Fox
+https://m3u9.ml/a2/hls1/fx.m3u8?mu3zAQc9HC3GbwJq=eITxFtQJPksHKQrwvXlVTw&3U1G7qaTxrPbalZnEx=1643405604
+
+#EXTINF:-1 tvg-id="Fx" tvg-name="Fx" tvg-logo="" group-title="Canais",Fx
+https://m3u9.ml/a2/hls1/fx.m3u8?mu3zAQc9HC3GbwJq=eITxFtQJPksHKQrwvXlVTw&3U1G7qaTxrPbalZnEx=1643405604
+
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="" group-title="Canais",Telecine Premium
+https://m3u9.ml/a2/hls1/telecinepremium.m3u8?mu3zAQc9HC3GbwJq=J8ZT5CLadfLRQEwwIv8fHw&3U1G7qaTxrPbalZnEx=1643406441
+
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="" group-title="Canais",Telecine Action
+https://cdn.esporteone.com/TELECINEACTIONSD/video.m3u8?md5=tJTEGJna7gHf1qKvn_gStA&expires=1643381517
+
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="" group-title="Canais",Telecine Touch
+https://m3u9.ml/a2/hls1/telecinetouch.m3u8?mu3zAQc9HC3GbwJq=UDQhK3eHRxoBeG1tnnGlQw&3U1G7qaTxrPbalZnEx=1643406898
+
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="" group-title="Canais",Telecine Fun
+https://m3u9.ml/a2/hls1/telecinefun.m3u8?mu3zAQc9HC3GbwJq=V2RYXyrhUpmM8bvSQAlk_w&3U1G7qaTxrPbalZnEx=1643406960
+
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="" group-title="Canais",Telecine Pipoca
+https://m3u9.ml/a2/hls1/telecinepipoca.m3u8?mu3zAQc9HC3GbwJq=LUkhEamRKF3pH6B60y3Otg&3U1G7qaTxrPbalZnEx=1643407021
+
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="" group-title="Canais",Telecine Cult
+https://m3u9.ml/a2/hls1/telecinecult.m3u8?mu3zAQc9HC3GbwJq=wRR0NwjMKowynPpo8vk67Q&3U1G7qaTxrPbalZnEx=1643407111
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="" group-title="Canais",Warner Channel
+https://m3u9.ml/a2/hls1/warner.m3u8?mu3zAQc9HC3GbwJq=lwlaS8ejaevXBfzq8MceWQ&3U1G7qaTxrPbalZnEx=1643407268
+
+#EXTINF:-1 tvg-id="Tnt Séries " tvg-name="Tnt Séries" tvg-logo="" group-title="Canais",Tnt Séries
+https://cdn.esporteone.com/TNTSERIESSD/video.m3u8?md5=TJwQfYmU03R4zboRbSBzuA&expires=1643382226
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="" group-title="Canais",BBB
+https://cdn.esporteone.com/GLOBORJHD/video.m3u8?md5=X-UHTCHEaG_-W2DxwPr2ig&expires=1643382427
